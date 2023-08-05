@@ -1,1 +1,1 @@
-The Weather System Application is a dynamic website developed using React to fetch and present real-time weather data through API integration. It offers a user-friendly interface, allowing users to access accurate weather information for any location with ease.
+How to use: Simply enter the name of any city in the "Enter Location" search bar, and it will provide you with the current temperature and feels-like temperature in Celsius degrees, along with humidity, wind speed, and the current weather conditions.
